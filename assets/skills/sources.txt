@@ -1,0 +1,17 @@
+Office icons: current FY26 originals from Microsoft's official Word product page.
+Source: https://www.microsoft.com/en-us/microsoft-365/word
+PowerPoint: https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/PowerPoint-Icon-FY26?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100
+Excel: https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Excel-Icon-FY26?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100
+Word: https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Word-Icon-FY26?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100
+
+Gemini: original Google Gemini app icon.
+Source: https://gemini.google/about/
+Asset: https://storage.googleapis.com/gweb-gemini-cdn/gemini/uploads/c546a20243c57b297546630cf76e417a2483acb8.svg
+
+GitHub: original black Invertocat SVG from official logo download.
+Source: https://brand.github.com/foundations/logo
+Asset archive: https://brand.github.com/GitHub_Logos.zip
+
+Codex: original-color icon from the installed OpenAI Codex desktop application, copied unchanged from codex-app-ga-logo-3e5209898ca3.png.
+Official product: https://openai.com/codex/
+Official Codex extension listing: https://marketplace.visualstudio.com/items?itemName=openai.chatgpt
